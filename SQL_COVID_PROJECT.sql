@@ -1,5 +1,4 @@
 
-
 select * 
 from CovidProject..CovidDeaths
 order by 3, 4
